@@ -121,7 +121,7 @@ header {
     width: auto;
     height: 700px;
     position: relative;
-    left: 367px;
+    left: 327px;
     bottom: 150px; 
 } 
 
@@ -317,4 +317,8 @@ footer .container{
 
 .footer-social .header-menu__span{
   color: #929ecc;
+}
+
+.footer-social .cancel-margin{
+  margin: 0;
 }
